@@ -5,7 +5,7 @@
 
 ### App Walk-though
 `TODO://`
-<img src="file:///Users/mayakuzak/Desktop/XCode/Prework/HelloWorldGIF.gif" width=200><br>
+<img src="https://github.com/mayakuzak/Prework/blob/main/HelloWorldGIF.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
